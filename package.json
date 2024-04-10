@@ -17,7 +17,7 @@
   "samples":{
     "displayName": "Example Scene",
     "description": "Demo of toolkit components",
-    "path": "Samples~/ExampleScene"
+    "path": "Samples~/ExampleScene/MainScene"
  },
   "author": {
     "name": "ID274",
