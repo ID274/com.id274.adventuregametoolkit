@@ -14,11 +14,11 @@
     "game",
     "toolkit"
   ],
-  "samples":{
+  "samples": [{
     "displayName": "Example Scene",
     "description": "Demo of toolkit components",
-    "path": "Samples~/ExampleScene/MainScene"
- },
+    "path": "Samples~/ExampleScene"
+ }],
   "author": {
     "name": "ID274",
     "email": "id274@student.aru.ac.uk"
