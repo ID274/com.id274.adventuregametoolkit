@@ -1,7 +1,10 @@
 {
-    "name": "id274.adventuregametoolkit",
+    "name": "Main",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8c4dd21966739024fbd72155091d199e"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
